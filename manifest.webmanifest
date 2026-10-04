@@ -1,0 +1,25 @@
+{
+  "name": "Food Plan",
+  "short_name": "Food Plan",
+  "description": "Daily meals, portions, shopping and progress tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b4636",
+  "theme_color": "#1b4636",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
